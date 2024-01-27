@@ -1,0 +1,4 @@
+hot
+hot,remote-*:hot
+all,remote-*:all
+all
